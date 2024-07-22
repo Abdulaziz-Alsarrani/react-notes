@@ -183,7 +183,7 @@ function App() {
         {!editing &&
           <div className="note-operations">
             <a href="#" onClick={editNoteHandlar}>
-              <i className="fa fa-pencil-alt" />
+              <i className="fas fa-pencil-alt"></i>
             </a>
             <a href="#" onClick={deleteNoteHandlar}>
               <i className="fa fa-trash" />
