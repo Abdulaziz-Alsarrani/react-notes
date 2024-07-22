@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-notes/static/css/main.feb6f807.css",
+    "main.js": "/react-notes/static/js/main.b72718ef.js",
+    "static/media/hsoub-logo.png": "/react-notes/static/media/hsoub-logo.d7750077155f37adab72.png",
+    "index.html": "/react-notes/index.html",
+    "main.feb6f807.css.map": "/react-notes/static/css/main.feb6f807.css.map",
+    "main.b72718ef.js.map": "/react-notes/static/js/main.b72718ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb6f807.css",
+    "static/js/main.b72718ef.js"
+  ]
+}
